@@ -21,15 +21,15 @@ Feel free to use this project as a template for your travel-related website or c
 
 ## Sections
 The website is divided into several sections, each serving a unique purpose:
-
-Header: Navigation area.
-Hero Section: Introduction to Expedition.
-About Section: Features and blog area
-Services Section: Different services offered.
-Testimonial Section: User testimonials.
-Contact Section: Contact form to connect with Expedition.
-Footer Section: Information about the project and copyright details.
-
+<ul>
+<li>Header: Navigation area.</li>
+<li>Hero Section: Introduction to Expedition.</li>
+<li>About Section: Features and blog area.</li>
+<li>Services Section: Different services offered.</li>
+<li>Testimonial Section: User testimonials.</li>
+<li>Contact Section: Contact form to connect with Expedition.</li>
+<li>Footer Section: Information about the project and copyright details.</li>
+</ul>
 ## Contributions
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. For major changes, please discuss them in advance.
 
