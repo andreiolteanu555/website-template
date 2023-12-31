@@ -5,7 +5,7 @@ Welcome to Expedition, a website template offering travel guides for explorers. 
 - [Getting Started]
 - [Usage]
 - [Sections]
-- [Contributing]
+- [Contributions]
 - [License]
 
 ## Getting Started
@@ -30,6 +30,7 @@ The website is divided into several sections, each serving a unique purpose:
 <li>Contact Section: Contact form to connect with Expedition.</li>
 <li>Footer Section: Information about the project and copyright details.</li>
 </ul>
+
 ## Contributions
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, please open an issue or submit a pull request. For major changes, please discuss them in advance.
 
